@@ -1,0 +1,72 @@
+# === Operating System ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# === Programming Languages ===
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env/
+.venv/
+venv/
+pip-log.txt
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# === Editors and IDEs ===
+# VS Code
+.vscode/
+
+# JetBrains (PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# === Logs and Databases ===
+*.log
+*.sqlite3
+*.db
+
+# === Environment Files ===
+.env
+.env.*
+
+# === Build directories ===
+dist/
+build/
+out/
+tmp/
+temp/
+.cache/
+coverage/
+*.egg-info/
+
+# === Misc ===
+*.bak
+*.swp
+*.swo
+*.orig
+*.rej
